@@ -39,7 +39,7 @@ Follow these steps to run the development server locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/X-UI-Clone.git
+git clone https://github.com/ayanattaarbab/x-ui-clone.git
 cd X-UI-Clone
 
 ```
