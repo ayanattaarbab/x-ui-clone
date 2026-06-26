@@ -1,0 +1,24 @@
+{
+  "name": "x-ui-clone",
+  "version": "1.0.0",
+  "description": "A high-fidelity user interface replica of X built with Tailwind CSS v4.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./css/style.css --watch",
+    "build": "npx @tailwindcss/cli -i ./src/input.css -o ./css/style.css --minify"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "tailwind-v4",
+    "ui-clone",
+    "frontend"
+  ],
+  "author": "Ayan Arbab",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "tailwindcss": "^4.3.1"
+  }
+}
