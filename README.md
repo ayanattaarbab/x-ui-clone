@@ -40,7 +40,7 @@ Follow these steps to run the development server locally:
 
 ```bash
 git clone https://github.com/ayanattaarbab/x-ui-clone.git
-cd X-UI-Clone
+cd x-ui-clone
 
 ```
 
